@@ -16,7 +16,7 @@ also @GodsTutor and @dave would be great if u check spelling and grammer ty
 		## NOT CLEAR ENOUGH - What about military acces when you are over dip-limit? ##
 	ii. Great Power Limit
 		a. You can't be allied to more than one (TOP8) Great Power.
-		b. If you find yourself allied to more than 1, you have ~6 months to remedy the situation. If you're at war, this rule doesn't apply during the war.
+		b. If one of your allies becomes a GP while you're at war, and you now have more than 1 GP ally, you don't have to break your alliance with them until after your war ends. You will then have the standard 6 months to break the alliance
 		b. The HRE emperor always counts as a Great Power.
 		## Do we want both of these ally rules? Or just on? ##
 	iii. Protection
