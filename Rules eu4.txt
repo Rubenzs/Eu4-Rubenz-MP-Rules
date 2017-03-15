@@ -1,0 +1,44 @@
+VERSION 0.1
+@here Comments are made with ## pls check that out
+also @GodsTutor and @dave would be great if u check spelling and grammer ty
+
+1. Code of conduct:
+	i. Don't be a dick.
+	ii. Try to keep shitposting to shitpost channel.
+	iii. No exploits or country ruining. Doing this will get you kicked.
+	iv. Although we encourge players that are completely new to multiplayer games to come and join us, we play for score. This means it might be hard to get in to for newer people. But that does not mean that it is not possible, previously new players have joined and enjoyed themselves when they played with us.
+	v. Before the start of every session make sure you have the save file downloaded from DropBox. If you do not have the file loaded when you join the game you will be kicked until you have properly downloaded the save file. DropBox is linked in Discord.
+
+2. Game Rules:
+	i. Diplomatic limit on player relations
+		a. You can't go over diplo-limit. Complete exception is made to Burgundy until it has less than 3 PUs, and Denmark until 1474.
+		b. You can't break alliance with war partner to get in more people unless you have a reason, EG ally answers call but doesn't join. Don't circumvent diplolimit rule in spirit - it's meant to prevent huge alliances. If you need flexibility, you have to leave slots open.
+		## NOT CLEAR ENOUGH - What about military acces when you are over dip-limit? ##
+	ii. Great Power Limit
+		a. You can't be allied to more than one (TOP8) Great Power.
+		b. If you find yourself allied to more than 1, you have ~6 months to remedy the situation. If you're at war, this rule doesn't apply during the war.
+		b. The HRE emperor always counts as a Great Power.
+		## Do we want both of these ally rules? Or just on? ##
+	iii. Protection
+		a. Being protected means that you can't be attacked, and if the AI answers defensive call, that you can't lose land. If the AI attacks, you're fair game. Getting protection after a war has begun is impossible - protection rule applies after ongoing war is over.
+		b. Absent players are protected for one full session only in a 3 session sequence IE if you're protected, you can't be protected the next 3 sessions.
+		c. Players who drop are also protected.
+		d. Always let the group now when you are requesting protection through the protection channel, no message no protection.
+	IV. Respawning
+		a. It's allowed to abandon a destroyed country and be reborn into an AI country. You will have to wait for rehost though.
+		b. You cannot repick your nation unless your nation is dead or your nation cannot recover. This would mean if you have gone bankrupt and surrounded by hungry players. Your new repicked nation must be on a different continent than your previous one. If you pick a nation next to another player then the present player can protest the pick and the host will decide.
+	V. War deals
+		a. No peace deal can exceed 100% warscore.
+		b. Once a warleader surrenders you can't seperate peace people from that moment on. You're encouraged to send offer immediately after unconditional surrender and if this isn't done within 1 year, white peace will be enforced.
+		c. A coalition that is lost by the defender and does not result in lost land will be considered illegal. 
+	VI. Rules of Engagement:
+		a. It's illegal to attack a minor partner in a player trade league.
+		b. Enforcing peace is not allowed on players, but intervening as a great power is.(edited)
+
+	Rules not categorised yet:
+	- No ming alliance
+	- No player should volunteerly be a player vassal, no player PUs
+	layer vassals. PUs must be released.
+	- Religious League War can't be declared immediately - minimum 2 years will have to pass before it can, to allow players time to join.
+	- As a rule of thumb, overlord has to give permission if you want to play one of his subjects. Exceptions might occur.
+	- Prussia can only be formed by countries that doesn't have to change main culture to do it.
