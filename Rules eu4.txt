@@ -18,8 +18,7 @@ also @GodsTutor and @dave would be great if u check spelling and grammer ty
 		e. If one of your allies becomes a GP while you're at war, and you now have more than 1 GP ally, you don't have to break your alliance with them until after your war ends. You will then have the standard 6 months to break the alliance
 		f. The HRE emperor always counts as a Great Power.
 		g. AI Ming alliance is not allowed.
-		h. No player should volunteerly be a player vassal, no player PUs
-	layer vassals. PUs must be released.
+		h. No player should volunteerly be a player vassal or PU.
 	ii. Protection
 		a. Being protected means that you can't be attacked, and if the AI answers defensive call, that you can't lose land. If the AI attacks, you're fair game. Getting protection after a war has begun is impossible - protection rule applies after ongoing war is over.
 		b. Absent players are protected for one full session only in a 3 session sequence IE if you're protected, you can't be protected the next 3 sessions.
