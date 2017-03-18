@@ -1,7 +1,3 @@
-VERSION 0.1
-@here Comments are made with ## pls check that out
-also @GodsTutor and @dave would be great if u check spelling and grammer ty
-
 1. Code of conduct:
 	i. Don't be a dick.
 	ii. Try to keep shitposting to shitpost channel.
